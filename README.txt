@@ -15,3 +15,7 @@ For the test to work correctly, you have to:
 	IV. Transfer the downloaded "chromedriver.exe" to "C:\SeleniumDrivers" directory.
 
 	V. Now you should be able to successfully run the tests from the "bitbar_challenges.py" file.
+		Note:
+			- You can run a python file with the use of CLI, while in the same folder simply type:
+				1. "python bitbar_challenges.py" without "" or
+				2. "python3 bitbar_challenges.py"
